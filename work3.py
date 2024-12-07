@@ -7,4 +7,4 @@ class Hero :
     def greetings(self):
         return print(f"привет,{self.name }! \ мой уровень{self.lvl}")
 
-        
+print("qwsdfbgfdeedfgfdf")
