@@ -1,4 +1,5 @@
 #модуль пакеты - библиотеки 
 #декараторы
-print(12
-      )
+from colorama import init, Fore, Style
+print(Fore.RED + "This text is red!")
+print(Fore.GREEN + "This text is green!")
