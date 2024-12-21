@@ -48,4 +48,4 @@ def get_user_by_age(age):
     else:
         print('Нет пользователя с таким возрастом.')
 get_user_by_age(39)
-connect.close()
+connect.close() 
